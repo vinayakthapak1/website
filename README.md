@@ -2,8 +2,8 @@
 [![Build Status](https://travis-ci.org/blooparksystems/website.svg?branch=8.0)](https://travis-ci.org/blooparksystems/website)
 
 
-bloopark
-========
+bloopark An amazing Start
+=======
 
 We are an internet agency and Odoo partner based in Magdeburg, Germany with over 10 years of experience in e-commerce, responsive design and development.
 We consider ourselves as A-team, small and efficient.
